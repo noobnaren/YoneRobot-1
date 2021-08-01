@@ -92,7 +92,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ғᴜɴᴄᴛɪᴏɴs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴜᴩᴅᴀᴛᴇs🗞️", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="ᴜᴩᴅᴀᴛᴇs🗞️", url="https://t.me/PATRICIA_UPDATES"
         ),
     ],
     [
