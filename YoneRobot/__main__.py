@@ -96,9 +96,9 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ɢʙᴀɴ-ʟᴏɢs⏱️", url="t.me/PATRICIA_LOGS),
+        InlineKeyboardButton(text="ɢʙᴀɴ-ʟᴏɢs⏱️", url="t.me/PATRICIA_LOGS"),
         InlineKeyboardButton(
-            text="ᴄʜᴀᴛs💢", url="t.me/PATRICIA_CHATS}"
+            text="ᴄʜᴀᴛs💢", url="t.me/PATRICIA_CHATS"
         ),
     ],
 ]
